@@ -1,0 +1,1 @@
+Al consultar GET /reportes después de enviar reportes con POST, el servidor responde con un arreglo JSON que contiene todos los reportes registrados en memoria. Si no se han registrado reportes, el arreglo estará vacío.
